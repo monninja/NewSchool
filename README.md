@@ -1,4 +1,4 @@
-![](images/header.png)
+![](images4NS/header.png)
 
 **Season:** Fall 2019
 
@@ -6,7 +6,7 @@
 
 #### Timeline:
 
-![](images/timeline.png)
+![](images4NS/timeline.png)
 
 #### Goal:
 
